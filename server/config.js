@@ -1,11 +1,11 @@
 require('dotenv').config()
 
 module.exports = {
-    consumer_key: process.env.CONSUMER_KEY,
-    consumer_secret: process.env.CONSUMER_SECRET,
-    access_token: process.env.ACCESS_TOKEN,
-    access_token_secret: process.env.ACCESS_TOKEN_SECRET,
+    consumer_key: "ethmr8cuLFC5SXhsSCITkIJS1",
+    consumer_secret: "sj9dTjlyS0if7AuxGL01YXS5nTt3WIfCHlGkCupuocQosx76K1",
+    access_token: "1453975146201419779-huYgBSOBfVe4lTsYg2oqwXbNVu7gxq",
+    access_token_secret: "AOkFhOoltGg6UcB4hsd84HonLPzFt6L73cnsDgSvKBCsy",
 
-    bucketName: process.env.BUCKET_NAME,
-    elasticConfig: process.env.ELASTIC_CACHE,
+    bucketName: "n10602950assement2",
+    elasticConfig: "n10602950assesment2.km2jzi.ng.0001.apse2.cache.amazonaws.com",
 }
